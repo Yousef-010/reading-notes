@@ -31,19 +31,19 @@
 
 
 > query exe
-![alt]( /reading_notes/images/exe_1.png 'exe_1' )
-![alt]( /reading_notes/images/exe_2.png 'exe_2' )
-![alt]( /reading_notes/images/exe_3.png 'exe_3' )
-![alt]( /reading_notes/images/exe_4.png 'exe_4' )
-![alt]( /reading_notes/images/exe_5.png 'exe_5' )
-![alt]( /reading_notes/images/exe_6.png 'exe_6' )
+![alt]( /images/exe_1.png 'exe_1' )
+![alt]( /images/exe_2.png 'exe_2' )
+![alt]( /images/exe_3.png 'exe_3' )
+![alt]( /images/exe_4.png 'exe_4' )
+![alt]( /images/exe_5.png 'exe_5' )
+![alt]( /images/exe_6.png 'exe_6' )
 
 > DBMS exe
-![alt]( /reading_notes/images/exe_13.png 'exe_13' )
-![alt]( /reading_notes/images/exe_14.png 'exe_14' )
-![alt]( /reading_notes/images/exe_15.png 'exe_15' )
-![alt]( /reading_notes/images/exe_16.png 'exe_16' )
-![alt]( /reading_notes/images/exe_17.png 'exe_17' )
-![alt]( /reading_notes/images/exe_18.png 'exe_18' )
+![alt]( /images/exe_13.png 'exe_13' )
+![alt]( /images/exe_14.png 'exe_14' )
+![alt]( /images/exe_15.png 'exe_15' )
+![alt]( /images/exe_16.png 'exe_16' )
+![alt]( /images/exe_17.png 'exe_17' )
+![alt]( /images/exe_18.png 'exe_18' )
 
 
