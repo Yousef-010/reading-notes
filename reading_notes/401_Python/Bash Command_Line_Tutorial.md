@@ -65,7 +65,7 @@ man -k <search term>
 - Within a manual page, perform a search for 'term'
 - n  After performing a search within a manual page, select the next found item.
 
--_ _please visit this link_ _
+- _ _please visit this link_ _
  [see this link ](https://medium.com/javarevisited/top-10-unix-and-linux-productivity-tips-for-programmers-and-developers-c748129cf3e8)
 
 - **My opnion :**
