@@ -53,7 +53,7 @@
 - **My opnion :**
 - there is a lot of intersting characteristics in actual this is not for just intersting, it is to check your work and save it correctly 
 
-
+```html 
 > Manual Pages 
 - The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept
 
@@ -153,4 +153,4 @@ Shutdown the system. (Replace -h with -r for reboot.)
 ***THE END : )***
 
 
-
+``` 
