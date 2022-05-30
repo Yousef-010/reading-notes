@@ -1,5 +1,6 @@
-# That price is pain, the pain of growth.
-## Suffering is dependent on the story that we layer on top of our pain
+# Reading 01
+## That price is pain, the pain of growth.
+### Suffering is dependent on the story that we layer on top of our pain
 
 ```html
 > ## Things I want to know more about
