@@ -9,3 +9,4 @@
 | read 04        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read04.md) |
 | read 05        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read05.md) |
 | read 06        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read06.md) |
+| read 07        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read07.md) |
