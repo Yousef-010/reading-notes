@@ -17,7 +17,7 @@
 
 >Push O(1) 
 - Pushing a Node onto a stack will always be an O(1) operation
-```commandline
+```
 ALOGORITHM push(value)
 // INPUT <-- value to add, wrapped in Node internally
 // OUTPUT <-- none
@@ -43,7 +43,7 @@ ALGORITHM pop()
 
 > Peek O(1) 
 - When conducting a peek, you will only be inspecting the top Node of the stack.
-```commandline
+```
 ALGORITHM peek()
 // INPUT <-- none
 // OUTPUT <-- value of top Node in stack
@@ -53,7 +53,7 @@ ALGORITHM peek()
 ```
 
 > IsEmpty O(1)
-```commandline
+```
 ALGORITHM isEmpty()
 // INPUT <-- none
 // OUTPUT <-- boolean
@@ -78,7 +78,7 @@ return top = NULL
 
 >Enqueue O(1) 
 - When you add an item to a queue, you use the enqueue action. This is done with an O(1) operation in time because it does not matter how many other items live in the queue (n); 
-```commandline
+```
 ALGORITHM enqueue(value)
 // INPUT <-- value to add to queue (will be wrapped in Node internally)
 // OUTPUT <-- none
@@ -89,7 +89,7 @@ ALGORITHM enqueue(value)
 
 >Dequeue O(1) 
 - When you remove an item from a queue, you use the dequeue action. This is done with an O(1) operation in time because it doesn’t matter how many other items are in the queue,
-```commandline
+```
 ALGORITHM dequeue()
 // INPUT <-- none
 // OUTPUT <-- value of the removed Node
@@ -104,7 +104,7 @@ ALGORITHM dequeue()
 
 > Peek O(1) 
 - When conducting a peek, you will only be inspecting the front Node of the queue.
-```commandline
+```
 ALGORITHM peek()
 // INPUT <-- none
 // OUTPUT <-- value of the front Node in Queue
@@ -114,7 +114,7 @@ ALGORITHM peek()
 ```
 
 > IsEmpty O(1) 
-```commandline
+```
 ALGORITHM isEmpty()
 // INPUT <-- none
 // OUTPUT <-- boolean
@@ -123,5 +123,5 @@ return front = NULL
 ```
 
 _THE END_  ________________________THANK YOU FOR READING __________________________
->>>> Resources 
+> Resources 
 - https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html
