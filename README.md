@@ -12,3 +12,4 @@
 | read 07        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read07.md) |
 | read 08        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read08.md) |
 | read 09        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read09.md) |
+| read 10        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read10.md) |
