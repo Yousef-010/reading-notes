@@ -14,3 +14,4 @@
 | read 09        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read09.md) |
 | read 10        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read10.md) |
 | read 11        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read11.md) |
+| read 12        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read12.md) |
