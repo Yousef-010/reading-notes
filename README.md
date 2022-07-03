@@ -18,3 +18,4 @@
 | read 13        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read13.md) |
 | read 14        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read14.md) |
 | read 15        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read15.md) |
+| read 16        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read16.md) |
