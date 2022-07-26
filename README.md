@@ -24,3 +24,4 @@
 | read 19        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read19.md) |
 | read 20        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read20.md) |
 | read 21        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read21.md) |
+| read 22        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read22.md) |
