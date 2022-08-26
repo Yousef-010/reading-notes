@@ -34,3 +34,4 @@
 | read 29        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read29.md) |
 | read 30        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read30.md) |
 | read 31        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read31.md) |
+| read 32        | [Link](https://github.com/Yousef-010/reading-notes/blob/main/reading_notes/401_Python/read32.md) |
